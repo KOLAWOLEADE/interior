@@ -1,0 +1,19 @@
+body{
+  margin: 20px;
+  background-color: chocolate;
+ }
+
+
+ img{
+   height: 300px;
+   width: 300px;
+   border-color: white;
+   border-radius: 50px;
+   border-style: groove;
+ }
+
+ .image{
+   margin-right: auto;
+   margin-left: auto;
+   display: block;
+ }
