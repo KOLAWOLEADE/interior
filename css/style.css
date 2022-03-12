@@ -5,15 +5,25 @@ body{
 
 
  img{
+   margin-top: 20px;
    height: 300px;
    width: 300px;
    border-color: white;
-   border-radius: 50px;
-   border-style: groove;
+   border-radius: 30px;
+   border-style: solid;
+ }
+ 
+#instagram{
+  color: crimson;
+}
+
+ .li{
+   font-style: oblique;
+   font-size: 18px;
+   font-weight: bold;
  }
 
- .image{
-   margin-right: auto;
-   margin-left: auto;
-   display: block;
+ #li{
+
+
  }
