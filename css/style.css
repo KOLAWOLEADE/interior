@@ -4,7 +4,7 @@ body{
  }
 
 
- img{
+ .same{
    margin-top: 20px;
    height: 300px;
    width: 300px;
@@ -14,13 +14,13 @@ body{
  }
 
  .li{
-   font-style: oblique;
-   font-size: 18px;
+   font-style: normal;
+   font-size: 23px;
    font-weight: bold;
  }
 
- .app{
-   width: 8px;
-   height: 8px;
-
- }
+.logo{
+width: 50px;
+border-radius: 10px;
+margin: 10px;
+}
