@@ -12,10 +12,6 @@ body{
    border-radius: 30px;
    border-style: solid;
  }
- 
-#instagram{
-  color: crimson;
-}
 
  .li{
    font-style: oblique;
@@ -23,7 +19,8 @@ body{
    font-weight: bold;
  }
 
- #li{
-
+ .app{
+   width: 8px;
+   height: 8px;
 
  }
